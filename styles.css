@@ -146,3 +146,11 @@ footer {
   bottom: 0;
   width: 96.9%;
 }
+a {
+  text-decoration: none;
+}
+#seccion7 {
+  margin-bottom: 70px;
+  text-align: center;
+  font-size: 25px;
+}

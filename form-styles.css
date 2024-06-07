@@ -1,0 +1,47 @@
+body {
+  background-image: url(https://i.pinimg.com/236x/02/b9/a1/02b9a1c6e730d7471f9cc120762e4dea.jpg);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f9;
+  display: fleX;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.styled-form {
+  background: #111111;
+  padding: 30px 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+}
+
+.styled-form input[type="text"],
+.styled-form input[type="email"],
+.styled-form input[type="password"] {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #302c2c;
+  border-radius: 4px;
+  box-sizing: border-box;
+  transition: all 0.3s ease;
+  background-color: #554f4f;
+}
+
+.styled-form input[type="text"]:focus,
+.styled-form input[type="email"]:focus,
+.styled-form input[type="password"]:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.25);
+  outline: none;
+}
+
+.styled-form input::placeholder {
+  color: white;
+}
+
+.styled-form input:focus::placeholder {
+  color: #272424;
+}
