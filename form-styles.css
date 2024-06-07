@@ -45,3 +45,8 @@ body {
 .styled-form input:focus::placeholder {
   color: #272424;
 }
+
+.styled-form input[type="submit"] {
+  background-color: #111111;
+  color: beige;
+}
