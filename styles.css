@@ -137,12 +137,12 @@ li a {
 
 /* Footer */
 footer {
-  background-color: #000000; /* Color de fondo */
-  color: #fff; /* Color del texto */
-  text-align: center; /* Centrar el texto */
-  padding: 20px 0; /* Espaciado interno */
-  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
-  position: fixed; /* Fijar en la parte inferior */
-  bottom: 0; /* Alinear en la parte inferior */
-  width: 96.9%; /* Ocupar todo el ancho */
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  bottom: 0;
+  width: 96.9%;
 }
