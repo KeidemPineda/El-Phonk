@@ -130,6 +130,9 @@ li {
   padding: 5px, auto;
   color: white;
 }
+li a {
+  text-decoration: none;
+}
 
 /* Footer */
 footer {
