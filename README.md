@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./styles.css" />
+    <title>El-Phonk</title>
   </head>
   <body>
     <header id="header">
@@ -21,6 +22,7 @@
           <li><a href="#Seccion4" class="nav-link">Tipos</a></li>
           <li><a href="#Seccion5" class="nav-link">Referentes</a></li>
           <li><a href="#Seccion6" class="nav-link">Recomendaciones</a></li>
+          <li><a href="#seccion7" class="nav-link">Suscribete</a></li>
         </ul>
       </nav>
     </header>
@@ -85,22 +87,14 @@
       <section id="Seccion4">
         <h2>¿Que Tipos De Phonk Existen?</h2>
         <p>Tenemos el primero el alma del genero el <span>Drift Phonk</span></p>
-        <img
-          src="imagenes/car.jpg"
-          alt="portada drift phonk"
-          id="Seccion4-img"
-        />
+        <img src="imagenes/car.jpg" alt="portada drift phonk" />
         <p>
           Como te contamos fue el primero es caracterizado por ser producido a
           altos BPM para dar el sentimiento de adrenalina a los corredores y
           para dar una fuerza y emocion sin precedentes.
         </p>
         <p>Luego Esta El Que Da La Esencia Chill Phonk</p>
-        <img
-          src="imagenes/chillphonk.jpg"
-          alt="portada chill phonk"
-          id="Seccion4-img"
-        />
+        <img src="imagenes/chillphonk.jpg" alt="portada chill phonk" />
         <p>
           Esta hermosura salio de la innovacion de los productores al darse
           cuente que los Bells al ser un sonido mayormente agudo y
@@ -123,11 +117,7 @@
           cancion con mas vistas del genero siendo Murder In My Mind con 1200
           millones de vistas una locura el padre del Drift Phonk.
         </p>
-        <img
-          src="imagenes/kordhell.jpg"
-          alt="murder in my mind portada"
-          id="Seccion5-img"
-        />
+        <img src="imagenes/kordhell.jpg" alt="murder in my mind portada" />
         <p>Otros grandes del genero serian:</p>
         <ul>
           <li>$werve</li>
@@ -151,11 +141,7 @@
           segundo tema mas escuchado del genero Close Eyes con casi 100 millones
           de vistas
         </p>
-        <img
-          src="imagenes/dvrst.jpg"
-          alt="portada close eyes"
-          id="Seccion5-img"
-        />
+        <img src="imagenes/dvrst.jpg" alt="portada close Eyes" />
         <p>Otros grandes del genero serian:</p>
         <ul>
           <li>KahosLan</li>
@@ -268,9 +254,16 @@
           mencionamos y a Driftear o Volar como prefieras.
         </p>
       </section>
+      <section id="seccion7">
+        <p>
+          Si quieres saber mas de este genero suscribete para que te mantengamos
+          al tanto
+        </p>
+        <a href="form.html" class="suscribete" target="_blank">Suscribete</a>
+      </section>
       <footer>
         <p>&copy; 2024 PHONK , Keidem Pineda, Derechos Reservados.</p>
       </footer>
     </main>
-  </body> 
+  </body>
 </html>
