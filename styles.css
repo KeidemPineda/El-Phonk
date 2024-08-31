@@ -86,7 +86,7 @@ section h3 {
 }
 
 section li {
-  color: #727171;
+  color: #340641;
 }
 .li-p1 {
   color: whitesmoke;
@@ -107,11 +107,11 @@ section li {
 }
 section p {
   font-size: 1.3em;
-  text-align: center;
+  text-align: left;
   font-family: "Times New Roman", Times, serif;
 }
 section img {
-  width: 80%;
+  width: 60%;
   max-width: 400px;
   height: auto;
   display: block;
@@ -122,7 +122,7 @@ section a {
   text-decoration: none;
   margin: 5px;
   font-size: 1.1em;
-  color: rgb(29, 78, 236);
+  color: rgb(118, 23, 220);
 }
 #seccion7 {
   box-sizing: border-box;
@@ -142,4 +142,7 @@ footer {
   bottom: 0px;
   left: 0;
   width: 100%;
+}
+#p-suscribete {
+  text-align: center;
 }
